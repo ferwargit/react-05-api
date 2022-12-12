@@ -1,5 +1,7 @@
 # react-05-api
 
+<https://www.youtube.com/watch?v=kZ4YaoCYais>
+
 ```terminal
 npx create-react-app react-api
 ```
@@ -19,4 +21,3 @@ npm start
 Devuelve una respuesta de tipo JSON.
 
 ![state](./img/state.jpg)
-
