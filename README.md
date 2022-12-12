@@ -15,3 +15,8 @@ npm start
 ## API  
 
 <https://jsonplaceholder.typicode.com/todos>
+
+Devuelve una respuesta de tipo JSON.
+
+![state](./img/state.jpg)
+
